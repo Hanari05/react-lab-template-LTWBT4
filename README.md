@@ -17,10 +17,3 @@ Hoàn thiện các tính năng sau dựa trên bộ khung giao diện có sẵn:
    - Hiển thị "Số công việc đã hoàn thành".
    - Hiển thị "Số công việc chưa làm".
 5. **Xóa hàng loạt:** Nút "Xóa các mục đã xong" sẽ lọc và loại bỏ toàn bộ các công việc có trạng thái đã hoàn thành.
-
-## 🚀 Hướng dẫn nộp bài
-1. Fork repository này về tài khoản GitHub của bạn.
-2. Clone về máy: `git clone <link-repo-cua-ban>`
-3. Chạy lệnh: `npm install` và `npm run dev`
-4. Viết code vào các vị trí `// TODO` trong file `src/App.jsx`.
-5. Push code lên lại GitHub và nộp link repository của bạn.
